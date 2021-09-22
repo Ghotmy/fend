@@ -2,7 +2,7 @@
 
 Dynamic Landing Page 
 
-## Table of Contents
+## Project Info
 
 * Simple landing page project, navbar list is being generated autonomously by counting the number of sections on the page.
 * And by pressing any of these generated links it takes the user to its section, highlighting the section and the title with a wonderful yellow color.
