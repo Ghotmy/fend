@@ -1,37 +1,12 @@
-# Front End Nanodegree Program
+# Project 1
 
-Front End Nanodegree Content & Project Resources
+Dynamic Landing Page 
 
 ## Table of Contents
 
-* [Projects](#projects)
-* [Courses](#courses)
-* [Style-Guide](#style-guide)
+Simple landing page project, navbar list is being generated autonomously by counting the number of sections on the page.
+And by pressing any of these generated links it takes the user to its section, highlighting the section and the title with a wonderful yellow color.
+Also there is a "Go Top" button which takes you to the top if you dug too deep and wants to go back top.
+All the scrolling is "smooth scrolling" but it depends on the browser so make sure that this feature is enabled on your browser. (for example you can enable it in google chrome by going to chrome://flags/ and enabling "Smooth Scrolling").
 
-## Projects
-
-The following is a list of current projects required to complete the Front End Nanodegree.
-
-Note that projects that do not include associated starter code are not linked here.
-
-1. Personal Blog Website
-2. [Landing Page](https://github.com/udacity/fend/tree/refresh-2019/projects/landing-page)
-3. [Weather Journal App](https://github.com/udacity/fend/tree/refresh-2019/projects/weather-journal-app)
-4. [Evaluate A News Article with Natural Language Processing](https://github.com/udacity/fend/tree/refresh-2019/projects/evaluate-news-nlp)
-5. Capstone - Travel App
-
-## Courses
-
-The following is a list of the courses associated with the Front End Nanodegree.
-
-* C1 - CSS, Website Layout, Website Components
-* C2 - JavaScript & The DOM
-* C3 - Web API's and Asynchronous Applications
-* C4 - Build Tools and Single Page Web Apps
-* C5 - Capstone
-
-## Style-Guide
-
-See below for the Udacity Style Guide used thoroughout the Front End Nanodegree.
-
-* [Nanodegree Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/)
+Thats all, a pretty simple project.
