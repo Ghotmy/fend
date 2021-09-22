@@ -1,13 +1,12 @@
-# Landing Page Project
+# Project 1
 
-## Table of Contents
+Dynamic Landing Page 
 
-* [Instructions](#instructions)
+## Project Info
 
-## Instructions
+* Simple landing page project, navbar list is being generated autonomously by counting the number of sections on the page.
+* And by pressing any of these generated links it takes the user to its section, highlighting the section and the title with a wonderful yellow color.
+* Also there is a "Go Top" button which takes you to the top if you dug too deep and wants to go back top.
+* All the scrolling is "smooth scrolling" but it depends on the browser so make sure that this feature is enabled on your browser. (for example you can enable it in google chrome by going to chrome://flags/ and enabling "Smooth Scrolling").
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+Thats all, a pretty simple project.
